@@ -36,7 +36,3 @@ console.log(dateCalculator.getResult()); // Виводить нову дату �
 
 dateCalculator.subtractDays(3);
 console.log(dateCalculator.getResult()); // Виводить нову дату після віднімання днів
-
-
-
-
